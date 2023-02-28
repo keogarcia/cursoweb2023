@@ -1,0 +1,19 @@
+p::after {
+
+    content: " - Sufijo";
+    
+    background-color: yellow;
+    
+    color: red;
+    
+    font-weight: bold;}
+
+    p::before {
+
+        content: "Prefijo -";
+        
+        background-color: yellow;
+        
+        color: red;
+        
+        font-weight: bold;}
