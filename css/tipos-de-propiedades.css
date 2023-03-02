@@ -1,0 +1,26 @@
+h1 {color: #1162ac;
+    font-size: 20px;
+    text-shadow: 2px 4px 6px #1162ac;
+    font-style: italic;
+    line-height: 70px;
+    padding: 20px 0px 6px 40px;
+}
+
+p {color: #1162ac;
+    font-size: 20px;
+    font-weight:bold;
+    line-height: 70px;    
+    text-shadow: 2px 4px 6px #ac1111;
+    font-style: italic;
+    padding: 20px 0px 6px 40px;
+    
+
+}
+
+.div{
+
+    background-color: rgb(172, 127, 106);
+
+    
+
+}
