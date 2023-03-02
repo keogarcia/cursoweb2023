@@ -1,0 +1,13 @@
+div p {
+  background-color: yellow;
+}
+div > h1 {
+  background-color: rgb(248, 13, 13);
+}
+
+div + h2 {
+  background-color: rgb(17, 167, 226);
+}
+div ~ h3 {
+  background-color: rgb(255, 0, 242);
+}
