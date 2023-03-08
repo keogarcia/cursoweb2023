@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <title>Flex Items FLEX GROW</title>
+    <style>
+      .flex-container {
+        display: flex;
+        align-items: stretch;
+        background-color: #e77b7b;
+      }
+      .flex-container > div {
+        background-color: DodgerBlue;
+        color: white;
+        width: 100px;
+        margin: 10px;
+        text-align: center;
+        line-height: 75px;
+        font-size: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex-container">
+      <div style="flex-grow: 1">1</div>
+      <div style="flex-grow: 6">2</div>
+      <div style="flex-grow: 1">4</div>
+    </div>
+  </body>
+</html>
